@@ -4,7 +4,7 @@ Here are basic information:
 *    [The story behind this story](https://en.wikipedia.org/wiki/Ship_of_Theseus)
 *    The book's image 
 
-![Image](s.jpg)
+![s](s.jpg)
 
 *    Some sentenses I love:
    
