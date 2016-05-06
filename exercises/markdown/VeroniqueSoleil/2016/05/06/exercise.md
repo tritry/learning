@@ -1,6 +1,6 @@
 # *The Ship of Theseus*
 Here are basic information:
-*    [Inroduction from wiki](https://en.wikipedia.org/wiki/S._(Dorst_novel))
+*    [Introduction from wiki](https://en.wikipedia.org/wiki/S._(Dorst_novel))
 *    [The story behind this story](https://en.wikipedia.org/wiki/Ship_of_Theseus)
 *    The book's image 
 
